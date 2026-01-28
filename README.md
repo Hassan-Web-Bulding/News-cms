@@ -37,4 +37,10 @@ php artisan migrate
 php artisan serve
 ---
 
-### كيف تحفظ هذه التغييرات على GitHub؟
+### 📸 لقطات من المشروع
+
+#### الرئيسية
+![Home Page](screenshots/home.png)
+
+#### لوحة التحكم
+![Admin Dashboard](screenshots/admin.png)
